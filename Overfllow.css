@@ -1,0 +1,13 @@
+#contaner6{
+    position: sticky;
+    top: 100px;
+
+}
+.c6{
+    height:50px;
+    border: 2px solid rgb(0, 0, 0);
+    overflow: hidden;
+    overflow: scroll;
+    overflow: auto;
+    overflow: visible;
+}
